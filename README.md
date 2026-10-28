@@ -1,4 +1,3 @@
-
 <!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
@@ -57,6 +56,8 @@ Full Stack Developer and AI enthusiast who recently completed a B.Tech in Inform
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -73,6 +74,7 @@ Full Stack Developer and AI enthusiast who recently completed a B.Tech in Inform
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -111,6 +113,7 @@ Created an AI-powered health chatbot that gives instant symptom-based health gui
 **Tech Stack:** `Python` `Django` `NLP`
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Jayasri7-ux/AI_Medical_Chatbot)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://ai-medical-chatbot-gray.vercel.app/)
 
 </td>
   </tr>
@@ -123,11 +126,26 @@ Designed a dashboard during my Infosys Springboard internship that automates rep
 **Tech Stack:** `Python` `Pandas`
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Jayasri7-ux/youtube-analytics-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://youtube-analytics-dashboard-5cbrjrvg42efaiufsf8sbr.streamlit.app/)
 
 </td>
     <td width="50%" valign="top">
 
-<!-- Add a fourth project here later if you like -->
+### 📄 Resume Fit AI
+An AI-powered resume-tailoring and job-matching platform for freshers, built with React, Node.js, and a local LLM (Ollama). It screens job descriptions, rewrites resume bullets with strict fact-checking, and exports clean single-page DOCX and PDF resumes.
+
+- 🛡️ **Smart Gatekeeper:** filters job descriptions to fresher-friendly roles
+- 🔗 **URL Job Scraper:** extracts clean job descriptions from any job link
+- 🔒 **Fact Firewall:** AI rewrites stay true to your profile, with no invented skills
+- ⚡ **One-click instruction chips:** quickly make bullets punchier or more technical
+- 📋 **Audit trail:** logs every approved change with timestamps and reasons
+
+**Tech Stack:** `React 19` `Vite` `Tailwind CSS` `Node.js` `Ollama (Mistral / Llama 3)` `docx` `jsPDF` `pdf.js`
+
+<!-- TODO: add the GitHub and Live Demo badges for Resume Fit AI when ready. Uncomment and replace the links:
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](PASTE_GITHUB_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2C3E6B?style=flat-square&logo=googlechrome&logoColor=white)](PASTE_LIVE_DEMO_LINK_HERE)
+-->
 
 </td>
   </tr>
