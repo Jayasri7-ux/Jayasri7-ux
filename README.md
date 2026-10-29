@@ -142,10 +142,8 @@ An AI-powered resume-tailoring and job-matching platform for freshers, built wit
 
 **Tech Stack:** `React 19` `Vite` `Tailwind CSS` `Node.js` `Ollama (Mistral / Llama 3)` `docx` `jsPDF` `pdf.js`
 
-<!-- TODO: add the GitHub and Live Demo badges for Resume Fit AI when ready. Uncomment and replace the links:
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Jayasri7-ux/resume-builder)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2C3E6B?style=flat-square&logo=googlechrome&logoColor=white)](https://resume-builder-j5b4.vercel.app/)
--->
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://resume-builder-j5b4.vercel.app/)
 
 </td>
   </tr>
